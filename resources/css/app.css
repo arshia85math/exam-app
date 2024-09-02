@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'medium';
+    src: url('../sass/normal.ttf') format('truetype'), /* Modern Browsers */
+}  
+@font-face {
+    font-family: 'black';
+    src: url('../sass/black.ttf') format('truetype'), /* Modern Browsers */
+}  
+@font-face {
+    font-family: 'bold';
+    src: url('../sass/bold.ttf') format('truetype'), /* Modern Browsers */
+}  
+body , * {
+    font-family: 'medium';
+}
+.medium{
+    font-family: 'medium';
+}
+.bold{
+    font-family: 'bold';
+}
+.black{
+    font-family: 'black';
+}
